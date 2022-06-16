@@ -19,3 +19,5 @@ Use these files to demonstrate publishing a software package to the GitHub Packa
 1. Go to the **Code** tab and look for the package under the **Packages** section on the right hand side of the screen. Note that it may take a few minutes for the package to appear.  Also, you may need to refresh the screen to see the newly published package.
 1. Click the package name. Review the package details.
 
+
+![image](https://user-images.githubusercontent.com/33711981/174075576-5198a7d7-3f19-4bc4-8c1e-9473d951f9ca.png)
