@@ -1,5 +1,5 @@
 {
-  "name": "@YOUR_GITHUB_USER_NAME_HERE/YOUR_GITHUB_REPO_NAME_HERE",
+  "name": "@khanabid20/software-package",
     "version": "1.0.0",
     "description": "this is a test",
     "main": "index.js",
@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/YOUR_GITHUB_USER_NAME_HERE/YOUR_GITHUB_REPO_NAME_HERE.git"
+        "url": "git+https://github.com/khanabid20/software-package.git"
     },
     "author": "",
     "license": "ISC"
